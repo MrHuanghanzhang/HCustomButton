@@ -14,6 +14,16 @@
 		1A9B132F1B67447400B1FAF7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A9B132E1B67447400B1FAF7 /* Images.xcassets */; };
 		1A9B13321B67447400B1FAF7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A9B13301B67447400B1FAF7 /* LaunchScreen.xib */; };
 		1A9B133E1B67447400B1FAF7 /* CustomBtnTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A9B133D1B67447400B1FAF7 /* CustomBtnTests.m */; };
+		1A9B134A1B6744AC00B1FAF7 /* DeformationButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A9B13491B6744AC00B1FAF7 /* DeformationButton.m */; };
+		1A9B134D1B6744B700B1FAF7 /* MMMaterialDesignSpinner.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A9B134C1B6744B700B1FAF7 /* MMMaterialDesignSpinner.m */; };
+		1A9B13501B67474200B1FAF7 /* 微信logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A9B134E1B67474200B1FAF7 /* 微信logo@2x.png */; };
+		1A9B13511B67474200B1FAF7 /* 微博logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A9B134F1B67474200B1FAF7 /* 微博logo@2x.png */; };
+		1A9B13551B674A6D00B1FAF7 /* HYBubbleButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A9B13541B674A6D00B1FAF7 /* HYBubbleButton.m */; };
+		1A9B135C1B67574600B1FAF7 /* CatZanButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A9B13581B67574600B1FAF7 /* CatZanButton.m */; };
+		1A9B135D1B67574600B1FAF7 /* EffectImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A9B13591B67574600B1FAF7 /* EffectImage.png */; };
+		1A9B135E1B67574600B1FAF7 /* UnZan.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A9B135A1B67574600B1FAF7 /* UnZan.png */; };
+		1A9B135F1B67574600B1FAF7 /* Zan.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A9B135B1B67574600B1FAF7 /* Zan.png */; };
+		1A9B13661B675DD100B1FAF7 /* HShakeButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A9B13651B675DD100B1FAF7 /* HShakeButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +50,21 @@
 		1A9B13371B67447400B1FAF7 /* CustomBtnTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomBtnTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A9B133C1B67447400B1FAF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A9B133D1B67447400B1FAF7 /* CustomBtnTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomBtnTests.m; sourceTree = "<group>"; };
+		1A9B13481B6744AC00B1FAF7 /* DeformationButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeformationButton.h; sourceTree = "<group>"; };
+		1A9B13491B6744AC00B1FAF7 /* DeformationButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeformationButton.m; sourceTree = "<group>"; };
+		1A9B134B1B6744B700B1FAF7 /* MMMaterialDesignSpinner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMMaterialDesignSpinner.h; sourceTree = "<group>"; };
+		1A9B134C1B6744B700B1FAF7 /* MMMaterialDesignSpinner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMMaterialDesignSpinner.m; sourceTree = "<group>"; };
+		1A9B134E1B67474200B1FAF7 /* 微信logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微信logo@2x.png"; sourceTree = "<group>"; };
+		1A9B134F1B67474200B1FAF7 /* 微博logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "微博logo@2x.png"; sourceTree = "<group>"; };
+		1A9B13531B674A6D00B1FAF7 /* HYBubbleButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYBubbleButton.h; sourceTree = "<group>"; };
+		1A9B13541B674A6D00B1FAF7 /* HYBubbleButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYBubbleButton.m; sourceTree = "<group>"; };
+		1A9B13571B67574600B1FAF7 /* CatZanButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CatZanButton.h; sourceTree = "<group>"; };
+		1A9B13581B67574600B1FAF7 /* CatZanButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CatZanButton.m; sourceTree = "<group>"; };
+		1A9B13591B67574600B1FAF7 /* EffectImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EffectImage.png; sourceTree = "<group>"; };
+		1A9B135A1B67574600B1FAF7 /* UnZan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UnZan.png; sourceTree = "<group>"; };
+		1A9B135B1B67574600B1FAF7 /* Zan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Zan.png; sourceTree = "<group>"; };
+		1A9B13641B675DD100B1FAF7 /* HShakeButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HShakeButton.h; sourceTree = "<group>"; };
+		1A9B13651B675DD100B1FAF7 /* HShakeButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HShakeButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +106,10 @@
 		1A9B13201B67447400B1FAF7 /* CustomBtn */ = {
 			isa = PBXGroup;
 			children = (
+				1A9B13601B675D3D00B1FAF7 /* 长按抖动Btn */,
+				1A9B13561B67572E00B1FAF7 /* 点赞带动画按钮 */,
+				1A9B13521B674A5C00B1FAF7 /* 点出✨的按钮 */,
+				1A9B13471B67449800B1FAF7 /* 点击变化动画的Btn */,
 				1A9B13251B67447400B1FAF7 /* AppDelegate.h */,
 				1A9B13261B67447400B1FAF7 /* AppDelegate.m */,
 				1A9B13281B67447400B1FAF7 /* ViewController.h */,
@@ -117,6 +146,49 @@
 				1A9B133C1B67447400B1FAF7 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1A9B13471B67449800B1FAF7 /* 点击变化动画的Btn */ = {
+			isa = PBXGroup;
+			children = (
+				1A9B134B1B6744B700B1FAF7 /* MMMaterialDesignSpinner.h */,
+				1A9B134C1B6744B700B1FAF7 /* MMMaterialDesignSpinner.m */,
+				1A9B13481B6744AC00B1FAF7 /* DeformationButton.h */,
+				1A9B13491B6744AC00B1FAF7 /* DeformationButton.m */,
+				1A9B134E1B67474200B1FAF7 /* 微信logo@2x.png */,
+				1A9B134F1B67474200B1FAF7 /* 微博logo@2x.png */,
+			);
+			name = "点击变化动画的Btn";
+			sourceTree = "<group>";
+		};
+		1A9B13521B674A5C00B1FAF7 /* 点出✨的按钮 */ = {
+			isa = PBXGroup;
+			children = (
+				1A9B13531B674A6D00B1FAF7 /* HYBubbleButton.h */,
+				1A9B13541B674A6D00B1FAF7 /* HYBubbleButton.m */,
+			);
+			name = "点出✨的按钮";
+			sourceTree = "<group>";
+		};
+		1A9B13561B67572E00B1FAF7 /* 点赞带动画按钮 */ = {
+			isa = PBXGroup;
+			children = (
+				1A9B13571B67574600B1FAF7 /* CatZanButton.h */,
+				1A9B13581B67574600B1FAF7 /* CatZanButton.m */,
+				1A9B13591B67574600B1FAF7 /* EffectImage.png */,
+				1A9B135A1B67574600B1FAF7 /* UnZan.png */,
+				1A9B135B1B67574600B1FAF7 /* Zan.png */,
+			);
+			name = "点赞带动画按钮";
+			sourceTree = "<group>";
+		};
+		1A9B13601B675D3D00B1FAF7 /* 长按抖动Btn */ = {
+			isa = PBXGroup;
+			children = (
+				1A9B13641B675DD100B1FAF7 /* HShakeButton.h */,
+				1A9B13651B675DD100B1FAF7 /* HShakeButton.m */,
+			);
+			name = "长按抖动Btn";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,8 +272,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A9B132D1B67447400B1FAF7 /* Main.storyboard in Resources */,
+				1A9B135E1B67574600B1FAF7 /* UnZan.png in Resources */,
 				1A9B13321B67447400B1FAF7 /* LaunchScreen.xib in Resources */,
+				1A9B135F1B67574600B1FAF7 /* Zan.png in Resources */,
+				1A9B135D1B67574600B1FAF7 /* EffectImage.png in Resources */,
+				1A9B13501B67474200B1FAF7 /* 微信logo@2x.png in Resources */,
 				1A9B132F1B67447400B1FAF7 /* Images.xcassets in Resources */,
+				1A9B13511B67474200B1FAF7 /* 微博logo@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,8 +296,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A9B134D1B6744B700B1FAF7 /* MMMaterialDesignSpinner.m in Sources */,
+				1A9B13661B675DD100B1FAF7 /* HShakeButton.m in Sources */,
+				1A9B135C1B67574600B1FAF7 /* CatZanButton.m in Sources */,
 				1A9B132A1B67447400B1FAF7 /* ViewController.m in Sources */,
+				1A9B13551B674A6D00B1FAF7 /* HYBubbleButton.m in Sources */,
 				1A9B13271B67447400B1FAF7 /* AppDelegate.m in Sources */,
+				1A9B134A1B6744AC00B1FAF7 /* DeformationButton.m in Sources */,
 				1A9B13241B67447400B1FAF7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,6 +498,7 @@
 				1A9B13431B67447400B1FAF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A9B13441B67447400B1FAF7 /* Build configuration list for PBXNativeTarget "CustomBtnTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +507,7 @@
 				1A9B13461B67447400B1FAF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

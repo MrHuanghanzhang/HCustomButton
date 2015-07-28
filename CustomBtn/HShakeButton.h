@@ -10,4 +10,7 @@
 
 @interface HShakeButton : UIImageView
 
++ (instancetype)HShakeButtonWithImage:(UIImage *)img;
+
+
 @end
